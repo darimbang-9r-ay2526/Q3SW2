@@ -1,0 +1,19 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    background-image: url('https://t4.ftcdn.net/jpg/06/14/19/27/360_F_614192757_uDcTwFnjnZ06cMdwEhQxfisWoOfK3QRs.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.discount {
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+    width: 600px    ;
+    margin-left: 90px; 
+    margin-right: auto; 
+    size: 20px;   
+    margin-bottom: 120px;
+}
